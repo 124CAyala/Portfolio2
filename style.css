@@ -1,5 +1,13 @@
-.navbar {
+nav {
     background-color: #291F31;
     color: white;
-    max-width: 100vw;
+}
+.navbar-nav>li {
+    margin: 1rem;
+    color: lightgray;
+}
+.me {
+    border-radius: 100%;
+    height: 30vh;
+    width: auto;
 }
