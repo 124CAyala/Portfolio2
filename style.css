@@ -11,3 +11,18 @@ nav {
     height: 30vh;
     width: auto;
 }
+.card-body {
+    margin-top: 10%;
+    margin-left: 20%;
+    border-radius: 25px;
+    padding: 10%;
+}
+.card-name {
+}
+.bg-circle {
+    padding-top: 20em;
+    height: 40em;
+    width: 40em;
+    border-radius: 100%;
+    background-color: #3B048A;
+}
